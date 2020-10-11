@@ -1,0 +1,13 @@
+To convert cfg to cnf:
+run python assign4.py
+
+To parse sentences:
+run python cky.py
+
+File Description:
+
+assign4.py - code for cfg to cnf
+cky.py - code for cky parser and recognizer
+test - file containing cnf grammar
+final - file contains atis sentences with number of parse trees
+parse_trees.png - picture  of ATIS sentence with parse trees
